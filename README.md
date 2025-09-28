@@ -1,4 +1,4 @@
-# TalentScout AI - Hiring Assistant Chatbot
+# TechScreen - Hiring Assistant Chatbot
 
 An intelligent screening assistant built with Streamlit + OpenAI GPT-4.
 
